@@ -1,0 +1,14 @@
+{
+  "name": "Karan Gadekar",
+  "short_name": "Karan Gadekar",
+  "description": "Portfolio of Karan Gadekar, Data Engineer Associate, Developer and Entrepreneur.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
